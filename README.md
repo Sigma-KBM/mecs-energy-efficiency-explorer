@@ -2,6 +2,7 @@
 
 **[Open the interactive Tableau dashboard →](https://public.tableau.com/views/MECSAEnergyEfficiencyDashboard/SectorOpportunityBenchmark?:showVizHome=no)**
 
+[![Dashboard preview](https://public.tableau.com/views/MECSAEnergyEfficiencyDashboard/SectorOpportunityBenchmark.png?:showVizHome=no)](https://public.tableau.com/views/MECSAEnergyEfficiencyDashboard/SectorOpportunityBenchmark?:showVizHome=no)
 Interactive portfolio analysis of U.S. manufacturing energy consumption, expenditure, and energy intensity using the U.S. Energy Information Administration’s Manufacturing Energy Consumption Survey (MECS) 2022.
 
 ## Business question
